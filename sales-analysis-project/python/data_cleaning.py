@@ -1,5 +1,6 @@
 import pandas as pd
 
+# load dataset
 df = pd.read_csv("superstore.csv", encoding = "latin1")
 
 print(df.head().to_string())
