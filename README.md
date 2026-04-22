@@ -26,7 +26,7 @@ This project focuses on analyzing sales data using Python, SQL, Power BI and Exc
 
 ## 📷 Dashboard Preview
 
-![dashboard](dashboard.png)
+![dashboard](images/dashboard.png)
 
 ## 🚀 Conclusion
 
